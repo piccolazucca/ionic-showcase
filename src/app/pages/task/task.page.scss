@@ -19,6 +19,10 @@ ion-badge {
     text-align: left;
 }
 
-ion-footer div {
-    margin: 10px;
+ion-footer {
+    --border-style: solid
+}
+
+ion-toolbar {
+    padding: 15px 10px 0 10px;
 }
